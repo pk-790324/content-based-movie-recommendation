@@ -66,11 +66,4 @@ This project was designed to work with MovieLens or any custom movie metadata da
 
 Pappu Yadav  
 Aspiring Data Scientist
-
----
-
-## License
-
-Add a license (e.g., MIT) if you want to allow reuse. Create a `LICENSE` file in the repository.
-
 ---
