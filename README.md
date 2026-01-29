@@ -63,7 +63,7 @@ This project was designed to work with MovieLens or any custom movie metadata da
 ---
 
 ## Author
----
+
 Pappu Yadav  
 Aspiring Data Scientist
 
